@@ -90,4 +90,13 @@
     font-size: 0.75rem;
     padding: 0.7rem;
   }
+
+  .poster-buttons > button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: .5rem;
+    height: 3.4rem;
+
+  }
 }
